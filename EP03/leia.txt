@@ -1,9 +1,5 @@
 Substitua o arquivo cavaleiros.txt pelo cavaleiros2.txt
-E veja acontecer
-
-Nois lek
-Nois q voa
-Acima de nois só Deus
+Para testar
 
 enumerações - casamentos
 
