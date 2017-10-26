@@ -1,0 +1,23 @@
+Substitua o arquivo cavaleiros.txt pelo cavaleiros2.txt
+E veja acontecer
+
+Nois lek
+Nois q voa
+Acima de nois só Deus
+
+enumerações - casamentos
+
+	enumerações ['Jessica','Fernada','Pamela','Renata']
+
+	queridos = set()
+
+	queridos.add('pedro')
+	queridos.add('joao')
+
+	queridos.add('pedro')
+	queridos.add('joao')
+
+
+	numeros de queridos >= numero de meninas
+
+permutações - ta certo
